@@ -1,5 +1,0 @@
-my-vercel-project/
-├── api/
-│   └── index.php        ← your PHP code
-├── vercel.json          ← required
-└── data.json            ← optional (only if your PHP uses it)
